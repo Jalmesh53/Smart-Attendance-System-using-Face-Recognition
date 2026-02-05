@@ -43,30 +43,6 @@ The system:
 
 ---
 
-## 📂 Project Structure
-
-face_attendance_project/
-│
-├── main.py # Main application file
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-├── attendance.csv # Attendance log (auto-generated)
-│
-├── known_faces/ # Face image database
-│ ├── Eshan.jpg
-│ ├── Pritesh.jpg
-│ ├── Siddhesh.jpg
-│ ├── sample_person.jpg
-│ ├── Jalmesh_2025100812126.jpg
-│ ├── Pritesh_20251008120908.jpg
-│ └── Siddhesh_20251008120940.jpg
-│
-├── pycache/ # Python cache files
-│
-└── Python Mini Project Report.pdf # Academic project report
-
----
-
 ## ⚙️ Installation
 
 1. Clone or download the project.
