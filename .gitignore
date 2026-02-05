@@ -1,0 +1,4 @@
+__pycache__/
+attendance.csv
+.env
+*.exe
